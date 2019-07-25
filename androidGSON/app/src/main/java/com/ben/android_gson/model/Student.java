@@ -1,4 +1,4 @@
-package com.ben.android_gson;
+package com.ben.android_gson.model;
 
 public class Student {
 

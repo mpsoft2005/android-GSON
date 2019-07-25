@@ -1,0 +1,222 @@
+{
+   "predictions" : [
+      {
+         "description" : "中国上海市浦东新区祖冲之路长泰国际广场",
+         "id" : "cc60e5caf58fa9756438816e5b1fc8d39c80d62f",
+         "matched_substrings" : [
+            {
+               "length" : 6,
+               "offset" : 13
+            }
+         ],
+         "place_id" : "ChIJkS5CZ7l3sjURIlJWvcwgb8Y",
+         "reference" : "ChIJkS5CZ7l3sjURIlJWvcwgb8Y",
+         "structured_formatting" : {
+            "main_text" : "长泰国际广场",
+            "main_text_matched_substrings" : [
+               {
+                  "length" : 6,
+                  "offset" : 0
+               }
+            ],
+            "secondary_text" : "中国上海市浦东新区祖冲之路"
+         },
+         "terms" : [
+            {
+               "offset" : 13,
+               "value" : "长泰国际广场"
+            },
+            {
+               "offset" : 9,
+               "value" : "祖冲之路"
+            },
+            {
+               "offset" : 5,
+               "value" : "浦东新区"
+            },
+            {
+               "offset" : 2,
+               "value" : "上海市"
+            },
+            {
+               "offset" : 0,
+               "value" : "中国"
+            }
+         ],
+         "types" : [ "shopping_mall", "point_of_interest", "establishment" ]
+      },
+      {
+         "description" : "中国上海市浦东新区金科路长泰广场A座",
+         "id" : "44b47c831c713023cf5f5d6fe0e6d70aed8bb835",
+         "matched_substrings" : [
+            {
+               "length" : 4,
+               "offset" : 12
+            }
+         ],
+         "place_id" : "ChIJ51ma7Ll3sjURRsxz40_g7VM",
+         "reference" : "ChIJ51ma7Ll3sjURRsxz40_g7VM",
+         "structured_formatting" : {
+            "main_text" : "长泰广场A座",
+            "main_text_matched_substrings" : [
+               {
+                  "length" : 4,
+                  "offset" : 0
+               }
+            ],
+            "secondary_text" : "中国上海市浦东新区金科路"
+         },
+         "terms" : [
+            {
+               "offset" : 12,
+               "value" : "长泰广场A座"
+            },
+            {
+               "offset" : 9,
+               "value" : "金科路"
+            },
+            {
+               "offset" : 5,
+               "value" : "浦东新区"
+            },
+            {
+               "offset" : 2,
+               "value" : "上海市"
+            },
+            {
+               "offset" : 0,
+               "value" : "中国"
+            }
+         ],
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "description" : "中国上海市浦东新区长泰广场Ｄ座",
+         "id" : "af4fc01bfa7f8cdda8316f8271286df312fea084",
+         "matched_substrings" : [
+            {
+               "length" : 4,
+               "offset" : 9
+            }
+         ],
+         "place_id" : "ChIJeeUSJrh3sjUR_TCgS38UtW0",
+         "reference" : "ChIJeeUSJrh3sjUR_TCgS38UtW0",
+         "structured_formatting" : {
+            "main_text" : "长泰广场Ｄ座",
+            "main_text_matched_substrings" : [
+               {
+                  "length" : 4,
+                  "offset" : 0
+               }
+            ],
+            "secondary_text" : "中国上海市浦东新区"
+         },
+         "terms" : [
+            {
+               "offset" : 9,
+               "value" : "长泰广场Ｄ座"
+            },
+            {
+               "offset" : 5,
+               "value" : "浦东新区"
+            },
+            {
+               "offset" : 2,
+               "value" : "上海市"
+            },
+            {
+               "offset" : 0,
+               "value" : "中国"
+            }
+         ],
+         "types" : [ "premise", "geocode" ]
+      },
+      {
+         "description" : "中国上海市浦东新区哈雷路长泰广场4号停车场",
+         "id" : "7b94a5f4cb2c205520f7c9419256c0e0b22078e7",
+         "matched_substrings" : [
+            {
+               "length" : 4,
+               "offset" : 12
+            }
+         ],
+         "place_id" : "ChIJDYMLObh3sjURG2JzIQ7-gHA",
+         "reference" : "ChIJDYMLObh3sjURG2JzIQ7-gHA",
+         "structured_formatting" : {
+            "main_text" : "长泰广场4号停车场",
+            "main_text_matched_substrings" : [
+               {
+                  "length" : 4,
+                  "offset" : 0
+               }
+            ],
+            "secondary_text" : "中国上海市浦东新区哈雷路"
+         },
+         "terms" : [
+            {
+               "offset" : 12,
+               "value" : "长泰广场4号停车场"
+            },
+            {
+               "offset" : 9,
+               "value" : "哈雷路"
+            },
+            {
+               "offset" : 5,
+               "value" : "浦东新区"
+            },
+            {
+               "offset" : 2,
+               "value" : "上海市"
+            },
+            {
+               "offset" : 0,
+               "value" : "中国"
+            }
+         ],
+         "types" : [ "parking", "point_of_interest", "establishment" ]
+      },
+      {
+         "description" : "中国上海市浦东新区长泰广场Ｃ座",
+         "id" : "05f6d247573840e20ae34ac68138e434e2fc2340",
+         "matched_substrings" : [
+            {
+               "length" : 4,
+               "offset" : 9
+            }
+         ],
+         "place_id" : "ChIJw9Lyzbl3sjUR7a2PuSnuLGM",
+         "reference" : "ChIJw9Lyzbl3sjUR7a2PuSnuLGM",
+         "structured_formatting" : {
+            "main_text" : "长泰广场Ｃ座",
+            "main_text_matched_substrings" : [
+               {
+                  "length" : 4,
+                  "offset" : 0
+               }
+            ],
+            "secondary_text" : "中国上海市浦东新区"
+         },
+         "terms" : [
+            {
+               "offset" : 9,
+               "value" : "长泰广场Ｃ座"
+            },
+            {
+               "offset" : 5,
+               "value" : "浦东新区"
+            },
+            {
+               "offset" : 2,
+               "value" : "上海市"
+            },
+            {
+               "offset" : 0,
+               "value" : "中国"
+            }
+         ],
+         "types" : [ "premise", "geocode" ]
+      }
+   ],
+   "status" : "OK"
+}
